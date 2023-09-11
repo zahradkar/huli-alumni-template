@@ -8,7 +8,7 @@ LinkedIn: https://www.linkedin.com/in/martin-ondrejka-3479bb287/
 Email: martin.ondrejka@gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-Huli1: {link-to-repo}
+Huli1: https://martin-huli-posting.s3.eu-west-3.amazonaws.com/index.html
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
 LeetCode: https://leetcode.com/{username}
